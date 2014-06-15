@@ -1,5 +1,3 @@
-var app = angular.module('MyTutorialApp',[]);
-
 angular.module('MyTutorialApp', [])
 
 .directive('blurred', function () {
